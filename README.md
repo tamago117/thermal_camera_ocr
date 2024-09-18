@@ -1,9 +1,11 @@
 # thermal_camera_ocr
+![overview](./image/thermo_camera_ocr.png)
 
-
-## 動作確認環境
+## Operation environment
 - HIKMICRO Pocket2
 - Windows 11
+
+(This program can probably be excecute by other OS...)
 
 ## install
 ```
@@ -16,6 +18,10 @@ pip install -r .\requirements.txt
 ```
 
 ## usage
+- input: mp4 file
+- output: csv file
+
+When yo execute below command, file exploler will launch, then select mp4 file and csv file. 
 ```
 python main.py
 ```
