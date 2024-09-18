@@ -3,3 +3,4 @@ numpy
 matplotlib
 easyocr
 tqdm
+re

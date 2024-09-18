@@ -1,4 +1,4 @@
-# thrmocamera_ocr
+# thermal_camera_ocr
 
 
 ## 動作確認環境
